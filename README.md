@@ -5,6 +5,6 @@
 # Hand pose: https://handdetection-8dfc0.web.app/
 # Facial lamdmark detection: https://facemesh-a7d21.web.app/
 # Body pose detector: https://pose-detector.web.app/ 
- Body segmentation : https://bodypix-te.web.app/
+# Body segmentation : https://bodypix-te.web.app/
 
 More projects on the way 
